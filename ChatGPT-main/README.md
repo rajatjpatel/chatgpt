@@ -1,12 +1,4 @@
-# ChatGPT <img src="https://github.com/acheong08/ChatGPT/blob/main/logo.png?raw=true" width="7%"></img>
-[![PyPi](https://img.shields.io/pypi/v/revChatGPT.svg)](https://pypi.python.org/pypi/revChatGPT)
-[![PyPi](https://img.shields.io/pypi/dm/revChatGPT.svg)](https://pypi.python.org/pypi/revChatGPT)
 
-Reverse Engineered ChatGPT by OpenAI. Extensible for chatbots etc.
-
-<sup>Connect with me on [Linkedin](https://www.linkedin.com/in/acheong08/) to support this project. I'm graduating high school soon and knowing some people might help my chances at finding employment.</sup>
-
-> # Notice: The project has been archived due to severe limitations by Cloudflare. I have not abandoned ChatGPT. A new version is in the works which completely avoid the mess with Cloudflare. To get notified when the new version is released, you can follow me on [Fosstodon](https://fosstodon.org/@acheong08) or [Twitter](https://twitter.com/GodlyIgnorance).
 
 
 # Usage
