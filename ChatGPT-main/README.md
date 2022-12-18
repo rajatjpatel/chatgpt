@@ -31,24 +31,13 @@ chatbot = Chatbot({
 
 chatbot.get_chat_response(prompt, output="text") #output=stream uses async generator
 ```
-### Using a proxy?
-> 连接代理后运行，等待首次浏览器自动关闭后，立即关闭代理，建议设置全局代理运行。如果顺利完成，等待浏览器第二次自动打开后。将会正确获取到参数。
+
 
 > Open the proxy first, run it, wait for the browser to close automatically for the first time, and immediately close the proxy. It is recommended to set a global shortcut key to press. If completed successfully, the browser will automatically open after the second time. The parameters can be obtained correctly.
 
-# Awesome ChatGPT
-[My list](https://github.com/stars/acheong08/lists/awesome-chatgpt)
 
 If you have a cool project you want added to the list, open an issue.
 
 # Disclaimers
 This is not an official OpenAI product. This is a personal project and is not affiliated with OpenAI in any way. Don't sue me
 
-# Credits
-- [rawandahmad698](https://github.com/rawandahmad698) - Reverse engineering Auth0
-- [FlorianREGAZ](https://github.com/FlorianREGAZ) - TLS client
-- [PyRo1121](https://github.com/PyRo1121) - Linting
-- [Harry-Jing](https://github.com/Harry-Jing) - Async support
-- [Ukenn2112](https://github.com/Ukenn2112) - Documentation
-- [aliferouss19](https://github.com/aliferouss19) - Logo
-- [All other contributors](https://github.com/acheong08/ChatGPT/graphs/contributors)
